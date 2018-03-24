@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAdition", "ArrayAdition\ArrayAdition.csproj", "{80C3E00C-E789-4B45-9F13-68B0AFF57B24}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndMarix", "ArrayAdition\ArraysAndMarix.csproj", "{80C3E00C-E789-4B45-9F13-68B0AFF57B24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
