@@ -149,7 +149,6 @@ namespace ArraysAndMatrix
                         rightDiagonal += matrix[line, column];
                     }
                 }
-
             }
             return new Tuple<double, double>(leftDiagonal, rightDiagonal);
         }
